@@ -10,7 +10,7 @@ You can can see the live demo [here](http://crypto-tracker.stevenparra.digital/)
 - [React Router](https://reactrouterdotcom.fly.dev/docs/en/v6) routing library
 - [Chart.js](https://www.chartjs.org/) charting library
 - [Ant Design](https://ant.design/) UI library 
-- [Coinranking API](https://rapidapi.com/Coinranking/api/coinranking1/) and [Bing News Search API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/) by [Rapid API](https://rapidapi.com/)
+- [Rapid API](https://rapidapi.com/) : [Coinranking API](https://rapidapi.com/Coinranking/api/coinranking1/) and [Bing News Search API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/) 
 
 ## How it works
 
