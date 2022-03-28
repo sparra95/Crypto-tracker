@@ -8,7 +8,8 @@ You can can see the live demo [here](http://crypto-tracker.stevenparra.digital/)
 
 - [React](https://reactjs.org/) JavaScript library
 - [React Router](https://reactrouterdotcom.fly.dev/docs/en/v6) routing library
-- [Chart.js](https://www.chartjs.org/) charting library
+- [Redux](https://redux.js.org/) state management
+- [Chart.js 2](https://www.chartjs.org/) charting library
 - [Ant Design](https://ant.design/) UI library 
 - [Rapid API](https://rapidapi.com/) : [Coinranking API](https://rapidapi.com/Coinranking/api/coinranking1/) and [Bing News Search API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/) 
 
